@@ -1,0 +1,25 @@
+      sql_query = pd.read_sql_query("SELECT eventID, COUNT(actor) FROM EventActors GROUP BY eventID;" ,conn)
+      da = pd.DataFrame(sql_query)
+      da.to_csv ("Events.csv", index = False) 
+    
+      sql_query = pd.read_sql_query("SELECT Country FROM Countries GROUP BY Country;" ,conn)
+      da = pd.DataFrame(sql_query)
+      da.to_csv ("CountriesList.csv", index = False) 
+
+      sql_query = pd.read_sql_query("SELECT Country, cityCounts.City, cityCounts.eventCount FROM Cities, (SELECT City, COUNT(eventID) as eventCount FROM Events GROUP BY City) cityCounts WHERE cityCounts.City = CityId;" ,conn)
+      da = pd.DataFrame(sql_query)
+      da.to_csv ("CountriesCityCount.csv", index = False) 
+
+      sql_query = pd.read_sql_query("SELECT Country, MAX(cityCounts.eventCount) FROM Cities, (SELECT City, COUNT(eventID) as eventCount FROM Events GROUP BY City) cityCounts WHERE cityCounts.City = CityId GROUP BY Country;" ,conn)
+      da = pd.DataFrame(sql_query)
+      da.to_csv ("CityMostEventsByCountry.csv", index = False) 
+      
+      
+      
+      
+      
+            print()
+      print('ANALYTICAL Q 2:')
+      sql_query = pd.read_sql_query("SELECT Countries.Country, Countries.Region, MAX(Events.nPart) from Cities JOIN Events on Cities.CityId = Events.City JOIN Countries on Countries.ISO3 = Cities.Country GROUP BY Countries.Country, Countries.Region;" ,conn)
+      da = pd.DataFrame(sql_query)
+      da.to_csv ("maxparticipantbycandr.csv", index = False) 

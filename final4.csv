@@ -1,0 +1,18 @@
+Year,ProblemType,eventID,eLocal,City,Deaths,actor,target
+1966,Armed Battle/Clash,56-1,N/A,Lhasa,120,Maoists,General Chang Kuohua
+1967,Armed Attack,18-37,Niu Chieh,Beijing,1,Moslem Revolutionary Rebels,Society
+1968,Armed Battle/Clash,18-46,Tsing Hua University,Beijing,18,Red Guards,Red Guards
+1976,Armed Attack,18-56,Soviet Embassy,Beijing,3,Unkown identity,Soviet Embassy
+1980,Anti-Government Terrorism,18-74,Beijing Central Railway Station,Beijing,10,Unkown identity,Government
+1987,Spontaneous Violent Riot,56-3,"Jokhang Temple,  Regional Government Building",Lhasa,6,Tibetians,Chinese Authorities
+1987,Spontaneous Violent Riot,56-3,"Jokhang Temple,  Regional Government Building",Lhasa,6,Foreigners,Chinese Authorities
+1989,Spontaneous Violent Riot,56-5,Tibetian Quarter,Lhasa,16,Buddhists,Chinese Authorities
+1997,Anti-Government Terrorism,18-91,Xidan shopping district,Beijing,2,Ethnic Uighurs,Government
+2000,Anti-Government Terrorism,18-97,Tian An Men Square,Beijing,1,Terrorist,Government
+2001,Spontaneous Violent Riot,18-100,Tian An Men Square,Beijing,1,Falun Gong,Government
+2008,Spontaneous Violent Riot,56-16,N/A,Lhasa,23,Anti-China demonstrators,Chinese government
+2008,Spontaneous Violent Riot,56-16,N/A,Lhasa,23,Monks,Chinese government
+2008,Spontaneous Violent Riot,56-16,N/A,Lhasa,23,Anti-China demonstrators,"Ethnic Han Chinese,Hui Muslims"
+2008,Spontaneous Violent Riot,56-16,N/A,Lhasa,23,Monks,"Ethnic Han Chinese,Hui Muslims"
+2012,Organized Violent Riot,56-19,Jokhang temple,Lhasa,1,Tibetan protesters,Government
+2013,Anti-Government Terrorism,18-116,Tiananmen square,Beijing,5,Uighur separatists,Government

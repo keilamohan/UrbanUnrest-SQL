@@ -1,0 +1,90 @@
+Country,City,Capital,EventCount
+Cote d'Ivoire,Abidjan,Yes,50
+United Arab Emirates,Abu Dhabi,Yes,4
+Ghana,Accra,Yes,30
+Ethiopia,Addis Ababa,Yes,74
+Algeria,Algiers,Yes,246
+Kazakhstan,Almaty,No,11
+Jordan,Amman,Yes,62
+Madagascar,Antananarivo,Yes,41
+Turkmenistan,Ashgabat,Yes,5
+Paraguay,Asuncion,Yes,36
+Iraq,Baghdad,Yes,473
+Azerbaijan,Baku,Yes,77
+Mali,Bamako,Yes,20
+Thailand,Bangkok,Yes,152
+China,Beijing,Yes,117
+Lebanon,Beirut,Yes,341
+Kyrgyzstan,Bishkek,Yes,23
+Colombia,Bogota,Yes,123
+Congo,Brazzaville,Yes,38
+Argentina,Buenos Aires,Yes,238
+Egypt,Cairo,Yes,168
+Venezuela,Caracas,Yes,110
+Sri Lanka,Colombo,Yes,143
+Guinea,Conakry,Yes,51
+Senegal,Dakar,Yes,29
+Syria,Damascus,Yes,115
+Tanzania,Dar Es Salaam,Yes,9
+Bangladesh,Dhaka,Yes,188
+Tajikistan,Dushanbe,Yes,30
+Guatemala,Guatemala City,Yes,95
+Zimbabwe,Harare,Yes,117
+Cuba,Havana,Yes,28
+Turkey,Istanbul,No,234
+Indonesia,Jakarta,Yes,139
+South Africa,Johannesburg,No,138
+Afghanistan,Kabul,Yes,277
+Uganda,Kampala,Yes,67
+Pakistan,Karachi,No,277
+Nepal,Kathmandu,Yes,101
+Sudan,Khartoum,Yes,73
+Rwanda,Kigali,Yes,22
+"Congo, DRC",Kinshasa,Yes,88
+Malaysia,Kuala Lumpur,Yes,41
+Kuwait,Kuwait City,Yes,27
+Bolivia,La Paz,Yes,116
+Nigeria,Lagos,No,70
+Peru,Lima,Yes,169
+Togo,Lome,Yes,43
+Angola,Luanda,Yes,41
+Zambia,Lusaka,Yes,36
+Philippines,Manila,Yes,155
+Mozambique,Maputo,Yes,33
+Mexico,Mexico City,Yes,66
+Somalia,Mogadishu,Yes,231
+Liberia,Monrovia,Yes,43
+Uruguay,Montevideo,Yes,77
+Kenya,Nairobi,Yes,95
+Chad,Ndjamena,Yes,34
+India,New Delhi,Yes,176
+Niger,Niamey,Yes,33
+Burkina Faso,Ouagadougou,Yes,20
+Panama,Panama City,Yes,46
+Cambodia,Phnom Penh,Yes,84
+Haiti,Port-Au-Prince,Yes,107
+Ecuador,Quito,Yes,64
+Morocco,Rabat,Yes,56
+Myanmar,Rangoon,No,67
+Brazil,Rio De Janeiro,No,80
+Saudi Arabia,Riyadh,Yes,36
+Vietnam,Saigon,No,154
+Costa Rica,San Jose,Yes,16
+El Salvador,San Salvador,Yes,157
+Yemen,Sanaa,Yes,125
+Chile,Santiago,Yes,217
+Dominican Republic,Santo Domingo,Yes,63
+South Korea,Seoul,Yes,147
+Singapore,Singapore,Yes,4
+Taiwan,Taipei,Yes,38
+Uzbekistan,Tashkent,Yes,16
+Georgia,Tbilisi,Yes,63
+Honduras,Tegucigalpa,Yes,43
+Iran,Tehran,Yes,261
+Japan,Tokyo,Yes,64
+Libya,Tripoli,Yes,66
+Tunisia,Tunis,Yes,56
+Mongolia,Ulan Bator,Yes,19
+Laos,Vientiane,Yes,30
+Cameroon,Yaounde,Yes,10
+Armenia,Yerevan,Yes,72

@@ -1,0 +1,18 @@
+Country,City,ProblemType,EventCount,Latitude
+Yemen,Sanaa,Armed Attack,41,15.35667915
+United Arab Emirates,Abu Dhabi,Anti-Government Terrorism,2,24.46668357
+Saudi Arabia,Riyadh,Anti-Government Terrorism,12,24.64277901
+Kuwait,Kuwait City,Anti-Government Terrorism,11,29.37166349
+Egypt,Cairo,Organized Demonstration,33,30.05190621
+Jordan,Amman,Anti-Government Terrorism,14,31.95197111
+Libya,Tripoli,Armed Attack,16,32.89250002
+Iraq,Baghdad,Anti-Government Terrorism,180,33.34059436
+Syria,Damascus,Anti-Government Terrorism,35,33.50197985
+Morocco,Casablanca,Spontaneous Demonstration,4,33.60192207
+Lebanon,Beirut,Armed Attack,106,33.87392098
+Morocco,Rabat,Organized Demonstration,39,33.962679
+Algeria,Algiers,Armed Attack,81,36.76501066
+Tunisia,Tunis,Organized Demonstration,19,36.80277814
+Tunisia,Tunis,Spontaneous Violent Riot,19,36.80277814
+Turkey,Ankara,Communal Terrorism,48,39.92918444
+Turkey,Istanbul,Communal Terrorism,108,41.10694201
